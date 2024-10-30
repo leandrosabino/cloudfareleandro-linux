@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "my-blazor-project",
   "resources": {
-    "hash": "sha256-OHicGWBL4qjkhtOebXAMyWR/7ImK4x1HAel4A4O/rTo=",
+    "hash": "sha256-2UaTWrI756GzKL1BvRitoxMomBmpCJUxNH8up9E6kxc=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.24sxri4stj.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
@@ -31,7 +31,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-6187ynEahDlSLMBvD4vAmiLpZ3clRb5xu6rM7O8AxNo=",
       "Microsoft.JSInterop.wasm": "sha256-YAuov+N9Jt7hvJRt9QsxNvhTGrzE64Y3sfAZ6hP1Z/A=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-sLSiCKh0RQEV/2cl05tr7wOLWzExQfPZovvpqYLJduQ=",
-      "my-blazor-project.wasm": "sha256-ByPM/f0hYejO5wvIRtHLmdu+39Pq0aKF310w/MjmoB4=",
+      "my-blazor-project.wasm": "sha256-mlq3Xgdx+k6Lgy78Qui9xgI43oFxr2pNdgo8bq5OAuY=",
       "System.Collections.Concurrent.wasm": "sha256-HjG8Quz/H7VhBcp64B362d3crlIBPSFXX6u5O12DrhM=",
       "System.Collections.wasm": "sha256-ECgzHxyb1OX+H12QedhUiW9OEch4gdZ92qGZLBk+o28=",
       "System.ComponentModel.wasm": "sha256-i7oMzbElBaNMckR3MYozYJPnC1EgxdAH5/PHd1zevvU=",
